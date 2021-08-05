@@ -1,0 +1,14 @@
+name: Heal-And-Feed
+main: Rinier\HealFeed\Main
+api: 3.0.0
+version: 1.0.0
+author: RinierMC
+
+commands:
+ heal:
+  description: "Heal Your Self"
+  permission: heal.command
+ feed:
+  description: "Feed Your Self"
+  permission: feed.command
+

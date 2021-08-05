@@ -1,0 +1,8 @@
+--- 
+# Simple Heal&Feed Plugin With Permission And Custom Heal&Feed Message
+# Use § For Colors
+Heal-Message: "§l§7(§a!§7) §aYou Have Been Healed"
+
+Feed-message: "§l§7(§a!§7) §aYou Have Been Feeded"
+
+...
