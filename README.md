@@ -4,3 +4,9 @@ And Customizable Messages
 # TODO
 - Heal Other Player
 - Feed Other Player
+# Command
+- /heal
+- /feed
+# Permission
+- heal.command
+- feed.command
