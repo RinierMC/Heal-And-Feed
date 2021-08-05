@@ -5,8 +5,8 @@ And Customizable Messages
 - Heal Other Player
 - Feed Other Player
 # Command
-- /heal
-- /feed
+- `/heal`
+- `/feed`
 # Permission
-- heal.command
-- feed.command
+- `heal.command`
+- `feed.command`
